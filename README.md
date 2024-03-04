@@ -92,6 +92,7 @@ Add Captions de imagens
 ![image](https://github.com/edudias1972/AI_AZURE_VISION/assets/80340034/0aa1aceb-b5b6-4f0e-a3d0-86d6e5218117)
 
 
+![image](https://github.com/edudias1972/AI_AZURE_VISION/assets/80340034/2534c87c-394a-44a3-ab26-5af4a24acb73)
 
 
 
