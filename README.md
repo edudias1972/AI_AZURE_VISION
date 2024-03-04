@@ -1,4 +1,4 @@
-![image](https://github.com/edudias1972/AI_AZURE_VISION/assets/80340034/6a3c6eb5-d377-4410-9f2c-d0a40be5b2a0)# AI_AZURE_VISION
+# AI_AZURE_VISION
 
 Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
